@@ -1,0 +1,20 @@
+.down-arrow-link {
+  position: absolute;
+  bottom: 40px;
+  left: 41%;
+  background: #fff;
+  color: #000;
+  font-size: 25px;
+  padding: 10px 15px !important;
+}
+
+.down-arrow-link:hover {
+    background-color: transparent;
+    color: #fff;
+}
+
+@media (min-width: 768px) {
+  .down-arrow-link { 
+    left: 48%;
+  }
+}
