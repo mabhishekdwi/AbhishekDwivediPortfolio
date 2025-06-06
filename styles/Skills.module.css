@@ -1,0 +1,20 @@
+.skills-section-wrapper {
+    background-color: #ccc;
+    color: #333;
+}
+
+.other-tools-wrapper {
+    background-color: #fff;
+    color: #333;
+}
+
+.card-heading {
+    font-weight: 500;
+}
+
+@media (max-width: 500px) {
+    .skills-section-wrapper,
+    .other-tools-wrapper {
+        padding: 2rem 1rem;
+    }
+}

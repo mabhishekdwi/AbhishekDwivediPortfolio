@@ -1,0 +1,21 @@
+.contact-section-wrapper {
+    background-color: #191919;
+    color: #fff;
+}
+
+.input {
+    background-color: #373233;
+    border-color: #373233;
+    color: #fff;
+}
+
+.input:focus {
+    background-color: #373233;
+    border-color: #373233;
+    color: #fff;
+    outline: 1px solid #fff;
+}
+
+.button:disabled {
+    cursor: not-allowed;
+}
