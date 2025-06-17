@@ -9,7 +9,7 @@ export default function Home() {
       <Head>
         <title>Abhishek Dwivedi - Portfolio</title>
         <meta name="description" content="Full stack QA" />
-        <link rel="icon" href="/favicon.ico" />
+        <link rel="icon" href="public/favicon.ico" />
       </Head>
 
       <Layout />

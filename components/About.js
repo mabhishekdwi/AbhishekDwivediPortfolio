@@ -43,13 +43,13 @@ const About = ({ forwardedRef }) => {
             </Col>
             <Col lg={6}>
               <div className="mb-4">
-                <a
+                {/* <a
                   className="btn btn-secondary rounded-0 btn-lg col-sm-8 mt-xs-2"
                   href="assets/docs/Abhishek Dwivedi_QA Updated_CV.pdf"
                   download
                 >
                   <i className="bi bi-download mr-2"></i>Download Resume
-                </a>
+                </a> */}
                 <Button
                   variant="primary"
                   className="btn-lg col-sm-8 mt-3"

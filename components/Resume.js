@@ -20,7 +20,7 @@ const Resume = ({ forwardedRef }) => {
             <em>from UPTU</em> • 2006 - 2010
           </p>
           <p>
-            Completed Bachelor of Technology from UPTU.
+            Completed B.Tech from UPTU.
           </p>
         </Col>
       </Row>
