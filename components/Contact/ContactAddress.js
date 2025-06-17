@@ -12,7 +12,7 @@ const ContactAddress = () => {
         <i className="bi bi-envelope mr-1"></i> mabhishekdwi@gmail.com
       </p>
       <p className="mb-2">
-        <i className="bi bi-linkedin mr-1"></i> linkedin.com/in/abhishek-dwivedi
+        <i className="bi bi-linkedin mr-1"></i> linkedin.com/in/theabhishekdwivedi
       </p>
     </>
   );

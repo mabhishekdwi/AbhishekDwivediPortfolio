@@ -16,7 +16,7 @@ const Footer = ({ forwardedRef }) => {
       </Link>
       <div className="justify-content-center d-flex pt-5 pb-2">
         <h4>
-          <a href="https://www.facebook.com/vishal.vash/" target="_blank">
+          <a href="https://www.facebook.com/" target="_blank">
             <span className="mr-4">
               <i className="bi bi-facebook"></i>
             </span>
@@ -40,14 +40,14 @@ const Footer = ({ forwardedRef }) => {
           </a>
         </h4>
         <h4>
-          <a href="https://wa.me/918447243177" target="_blank">
+          <a href="https://wa.me/918375957434" target="_blank">
             <span className="mr-4">
               <i className="bi bi-whatsapp"></i>
             </span>
           </a>
         </h4>
         <h4>
-          <a href="https://t.me/vishalvasishat" target="_blank">
+          <a href="https://t.me/" target="_blank">
             <span className="mr-4">
               <i className="bi bi-telegram"></i>
             </span>
@@ -55,7 +55,7 @@ const Footer = ({ forwardedRef }) => {
         </h4>
       </div>
       <div className="text-center text-muted pb-5">
-        &copy; Copyright {new Date().getFullYear()} Vishal Vasishat
+        &copy; Copyright {new Date().getFullYear()} Abhishek Dwivedi
       </div>
     </footer>
   );

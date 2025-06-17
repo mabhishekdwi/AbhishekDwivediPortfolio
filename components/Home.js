@@ -21,8 +21,13 @@ const Home = ({ forwardedRef, forwardedHomeTextRef }) => {
       <div className="text-center h-90" ref={forwardedHomeTextRef}>
         <h1>Abhishek Dwivedi</h1>
         <h5>
-          I am a Senior Software Engineer specializing in Quality Assurance and Testing. <br />
-          Passionate about ensuring software quality through comprehensive testing strategies and automation.
+        Software QA professional with 15+ years of experience in desktop, web, and mobile testing,leading and mentoring Manual QA and SDET teams.
+        <br />
+          skilled in test methodologies and tools. Over 8 years of people management experience<br />
+          leading and mentoring Manual QA and SDET teams. 
+          Expert in designing test frameworks,<br /> resource planning,performance management, and 
+          fostering a quality-driven culture.<br />Strong at aligning QA strategies with business needs in
+          Agile and continuous delivery environments. 
         </h5>
         <a href="https://www.linkedin.com/in/theabhishekdwivedi/" target="_blank" className="btn btn-lg btn-primary rounded-0 mt-3">
           <i className="bi bi-linkedin mr-2"></i>LinkedIn
