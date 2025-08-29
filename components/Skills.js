@@ -26,6 +26,8 @@ const Skills = ({ forwardedRef }) => {
         { name: "Robot Framework (Python)", iconname: "vscode.png" },
         { name: "Hybrid", iconname: "vscode.png" },
         { name: "Sprint Boot", iconname: "vscode.png" },
+        { name: "AI Automation", iconname: "vscode.png" },
+        { name: "AutoQC LLM/RAG", iconname: "vscode.png" },
       ],
     },{
       id: "7",
@@ -62,6 +64,7 @@ const Skills = ({ forwardedRef }) => {
         { name: "Oracle", iconname: "vscode.png" },
         { name: "DB2", iconname: "vscode.png" },
         { name: "MS Access", iconname: "vscode.png" },
+         { name: "FireBase", iconname: "vscode.png" },
       ],
     }, {
       id: "7",
