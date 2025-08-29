@@ -27,13 +27,44 @@ const About = ({ forwardedRef }) => {
           </Figure>
         </Col>
         <Col lg={9}>
-          <h4>About Me</h4>
+          <h4>Professional Summery</h4>
           <Row className="mb-3">
             <Col>
               <p>
-                I am a passionate Quality Assurance Engineer with expertise in software testing and quality control. I am dedicated to ensuring the delivery of high-quality software products through comprehensive testing strategies and automation. My approach combines technical expertise with a strong focus on user experience and product reliability.
-              </p>
-              <p>When I'm not working on testing and quality assurance, I enjoy staying updated with the latest technology trends and exploring new testing methodologies. I believe in continuous learning and improvement to deliver the best possible quality in software products.</p>
+                  Team Leadership – Led Performance, Manual, Automation, UAT, and AI-driven QA teams; 
+                  conducted daily stand-ups, resolved blockers, and mentored members.
+                </p>
+                <p>
+                  Task Prioritization – Planned tasks and made quick, business-aligned decisions.
+                </p>
+                <p>
+                  Stakeholder Coordination – Translated business needs into clear QA actions.
+                </p>
+                <p>
+                  Team Development – Drove 1:1s, performance reviews, and skill growth.
+                </p>
+                <p>
+                  Resource Planning – Forecasted needs, hired, and onboarded QAs.
+                </p>
+                <p>
+                  Agile Practices – Active in sprint planning, grooming, and estimation.
+                </p>
+                <p>
+                  Automation & AI – Hands-on with Selenium, TestNG, Maven, Cucumber BDD, REST API 
+                  automation, and AI-powered test agents using Appium, OCR, DOM parsing, and Google 
+                  Gemini for intelligent element recognition.
+                </p>
+                <p>
+                  QA Ownership – Managed test case creation, regression, and defect tracking in JIRA.
+                </p>
+                <p>
+                  Quality Advocacy – Represented QA in design discussions, ensuring early quality 
+                  integration.
+                </p>
+                <p>
+                  Risk Management – Identified and mitigated release risks.
+                </p>
+
             </Col>
           </Row>
           <h4>Contact Details</h4>
